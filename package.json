@@ -1,0 +1,17 @@
+{
+  "name": "vege-farm",
+  "version": "1.0.0",
+  "description": "node.js simple app",
+  "main": "index.js",
+  "scripts": {
+"start": "nodemon index.js"
+  },
+  "author": "Andy",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
